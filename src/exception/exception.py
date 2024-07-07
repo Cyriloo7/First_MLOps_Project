@@ -13,8 +13,3 @@ class customexception(Exception):
             self.file_name, self.lineno, str(self.error_message))
 
 
-if __name__ == '__main__':
-    try:
-        a = 1/0
-    except customexception as e:
-        raise customexception(e, sys)
