@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/b0b32a17866848caa983acd592904a5f/artifacts
+end_time: 1720441556432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0b32a17866848caa983acd592904a5f
+run_name: adaptable-ant-299
+run_uuid: b0b32a17866848caa983acd592904a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720441556398
+status: 4
+tags: []
+user_id: cyril

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/e2e316ce18894fd58660beedb7ab66b6/artifacts
+end_time: 1720441915567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2e316ce18894fd58660beedb7ab66b6
+run_name: grandiose-frog-490
+run_uuid: e2e316ce18894fd58660beedb7ab66b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720441915485
+status: 3
+tags: []
+user_id: cyril

@@ -33,7 +33,7 @@ class ModelEvaluation:
 
     def initiate_model_evaluation(self, train_array, test_array):
         try:
-            X_test, y_test = (test_array[:,:-1], test_array[:-1])
+            X_test, y_test = (test_array[:,:-1], test_array[:,-1])
 
             model_path = os.path.join("artifacts","model.pkl")
             model = load_object(model_path)
@@ -43,13 +43,13 @@ class ModelEvaluation:
             tracking_uri_type_store = urlparse(mlflow.get_tracking_uri())
             print(tracking_uri_type_store)
             logging.info("model evaluation started...")
-
-            with mlflow.start_run() as run:
-                run.log_param("model_type", "RandomForestRegressor")
-                run.log_metric("rmse", self.eval_metrics(y_test, model.predict(X_test))[0])
-                run.log_metric("mae", self.eval_metrics(y_test, model.predict(X_test))[1])
-                run.log_metric("r2", self.eval_metrics(y_test, model.predict(X_test))[2])
-                run.log_artifact(model_path)
+ 
+            with mlflow.start_run():
+                mlflow.log_param("model_type", "RandomForestRegressor")
+                mlflow.log_metric("rmse", self.eval_metrics(y_test, model.predict(X_test))[0])
+                mlflow.log_metric("mae", self.eval_metrics(y_test, model.predict(X_test))[1])
+                mlflow.log_metric("r2", self.eval_metrics(y_test, model.predict(X_test))[2])
+                mlflow.log_artifact(model_path)
             logging.info("Evaluation completed")
 
             if tracking_uri_type_store != "file":
@@ -64,5 +64,5 @@ class ModelEvaluation:
 
 
         except Exception as e:
-            logging.info()
+            logging.info("Exception during evaluation")
             raise customexception(e, sys)

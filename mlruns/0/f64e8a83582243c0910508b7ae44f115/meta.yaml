@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/f64e8a83582243c0910508b7ae44f115/artifacts
+end_time: 1720441503289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f64e8a83582243c0910508b7ae44f115
+run_name: grandiose-asp-544
+run_uuid: f64e8a83582243c0910508b7ae44f115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720441503250
+status: 4
+tags: []
+user_id: cyril

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/8c51916523e24a799a198858e41aca56/artifacts
+end_time: 1720441597885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c51916523e24a799a198858e41aca56
+run_name: nebulous-squid-694
+run_uuid: 8c51916523e24a799a198858e41aca56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720441597842
+status: 4
+tags: []
+user_id: cyril
