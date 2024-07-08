@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/MLFlow_experiments/mlruns/0/c91cc451c61e44249b4dd31b1d697df7/artifacts
+end_time: 1720438513636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c91cc451c61e44249b4dd31b1d697df7
+run_name: debonair-shad-633
+run_uuid: c91cc451c61e44249b4dd31b1d697df7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720438513573
+status: 3
+tags: []
+user_id: cyril

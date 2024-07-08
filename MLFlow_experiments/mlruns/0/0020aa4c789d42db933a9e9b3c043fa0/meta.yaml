@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/MLFlow_experiments/mlruns/0/0020aa4c789d42db933a9e9b3c043fa0/artifacts
+end_time: 1720438567436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0020aa4c789d42db933a9e9b3c043fa0
+run_name: bittersweet-tern-655
+run_uuid: 0020aa4c789d42db933a9e9b3c043fa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720438567392
+status: 3
+tags: []
+user_id: cyril
