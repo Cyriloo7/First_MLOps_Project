@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/3c66c269f3d1482d9e657e3670af1e39/artifacts
+end_time: 1720453440734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c66c269f3d1482d9e657e3670af1e39
+run_name: whimsical-shrike-808
+run_uuid: 3c66c269f3d1482d9e657e3670af1e39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720453440658
+status: 3
+tags: []
+user_id: cyril

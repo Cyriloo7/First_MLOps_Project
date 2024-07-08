@@ -11,5 +11,5 @@ stages:
     - artifacts/raw.csv
     - artifacts/train.csv
     - artifacts/test.csv
-    - artifacts/preprocessor.plk
+    - artifacts/preprocessor.pkl
     - artifacts/model.plk

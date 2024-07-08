@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/ebc61bf479f54c2aada322ae3bf40727/artifacts
+end_time: 1720453345976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebc61bf479f54c2aada322ae3bf40727
+run_name: angry-elk-918
+run_uuid: ebc61bf479f54c2aada322ae3bf40727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720453345893
+status: 3
+tags: []
+user_id: cyril
