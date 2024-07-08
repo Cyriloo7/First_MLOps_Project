@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/6e4178cd539d4beeba5781a5a0be2c8c/artifacts
+end_time: 1720453089370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e4178cd539d4beeba5781a5a0be2c8c
+run_name: calm-fish-545
+run_uuid: 6e4178cd539d4beeba5781a5a0be2c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720453089262
+status: 3
+tags: []
+user_id: cyril

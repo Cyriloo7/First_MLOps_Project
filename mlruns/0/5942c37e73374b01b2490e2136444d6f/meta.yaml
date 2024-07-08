@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/5942c37e73374b01b2490e2136444d6f/artifacts
+end_time: 1720453094192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5942c37e73374b01b2490e2136444d6f
+run_name: kindly-deer-10
+run_uuid: 5942c37e73374b01b2490e2136444d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720453089377
+status: 3
+tags: []
+user_id: cyril
