@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720453625883
+current_stage: None
+description: null
+last_updated_timestamp: 1720453625883
+name: ml_model
+run_id: 2f2e8d22fab54e74ad18dfdd168abe6d
+run_link: null
+source: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/2f2e8d22fab54e74ad18dfdd168abe6d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/2f2e8d22fab54e74ad18dfdd168abe6d/artifacts/model
+user_id: null
+version: 7

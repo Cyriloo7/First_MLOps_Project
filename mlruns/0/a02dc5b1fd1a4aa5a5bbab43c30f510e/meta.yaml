@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/a02dc5b1fd1a4aa5a5bbab43c30f510e/artifacts
+end_time: 1720453577108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a02dc5b1fd1a4aa5a5bbab43c30f510e
+run_name: powerful-dove-962
+run_uuid: a02dc5b1fd1a4aa5a5bbab43c30f510e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720453577033
+status: 3
+tags: []
+user_id: cyril
