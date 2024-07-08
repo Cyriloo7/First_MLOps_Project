@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/c469078f3bb14e2991af96f6d135ee04/artifacts
+end_time: 1720440761895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c469078f3bb14e2991af96f6d135ee04
+run_name: mysterious-perch-498
+run_uuid: c469078f3bb14e2991af96f6d135ee04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720440761839
+status: 4
+tags: []
+user_id: cyril

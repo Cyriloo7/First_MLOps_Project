@@ -42,6 +42,7 @@ class ModelEvaluation:
             logging.info("model has been registered")
             tracking_uri_type_store = urlparse(mlflow.get_tracking_uri())
             print(tracking_uri_type_store)
+            logging.info("model evaluation started...")
 
             with mlflow.start_run() as run:
                 run.log_param("model_type", "RandomForestRegressor")

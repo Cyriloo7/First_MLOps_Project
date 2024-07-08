@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cyril/Documents/GitHub/First_MLOps_Project/mlruns/0/79453d61b4ec4cd6bffd503d45bf2e31/artifacts
+end_time: 1720441054550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79453d61b4ec4cd6bffd503d45bf2e31
+run_name: enthused-shrew-225
+run_uuid: 79453d61b4ec4cd6bffd503d45bf2e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720441054516
+status: 4
+tags: []
+user_id: cyril
